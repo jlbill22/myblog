@@ -13,8 +13,8 @@ class Config(object):
     MAIL_SERVER = 'smtp.163.com'
     MAIL_PORT = 25
     MAIL_USE_TLS = False
-    MAIL_USERNAME = 'jlbill@163.com'
-    MAIL_PASSWORD = 'ji161797'
-    ADMINS = ['1520129400@qq.com']
+    MAIL_USERNAME = 
+    MAIL_PASSWORD = 
+    ADMINS = 
 
     LANGUAGES = ['en', 'zh-cn']
